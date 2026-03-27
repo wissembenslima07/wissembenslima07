@@ -116,12 +116,9 @@ A full backend e-commerce system built with .NET microservices and asynchronous 
 
 ---
 
-## GitHub Statistics
-
-![Wissem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wissembenslima07&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=wissembenslima07&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wissembenslima07&layout=compact&theme=tokyonight)
-
----
+# 📊 GitHub Stats
+## <image-card alt="Wissem's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=wissembenslima07&show_icons=true&theme=tokyonight" ></image-card>
+<image-card alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=wissembenslima07&theme=tokyonight" ></image-card>
+<image-card alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wissembenslima07&layout=compact&theme=tokyonight" ></image-card>
 
 ⭐ Thank you for visiting my profile. Feel free to explore my repositories and reach out if you'd like to collaborate!
