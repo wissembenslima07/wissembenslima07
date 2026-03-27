@@ -124,7 +124,7 @@ A full backend e-commerce system built with .NET microservices and asynchronous 
 
 ![Wissem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wissembenslima07&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=wissembenslima07&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=wissembenslima07&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wissembenslima07&layout=compact&theme=tokyonight&hide_border=true)
 
