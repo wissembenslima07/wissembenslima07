@@ -1,132 +1,171 @@
 # Wissem Ben Slima
 
-**Software Engineering Student | Backend & Microservices Specialist**
+### Software Engineering Student | Backend Developer | Cloud & AI Enthusiast
 
-Passionate about building scalable, reliable, and high-performance backend systems. Focused on solving complex problems through clean architecture, distributed systems, and modern DevOps practices.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+%26+Microservices+Developer;DevOps+%26+Cloud+Enthusiast;Exploring+LLMs+%26+Agentic+AI;Building+Scalable+Distributed+Systems" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/wissembenslima07">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/wissem-ben-slima-1b2757289/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:benslimawissem5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## About Me
 
-Hello! I'm **Wissem Ben Slima**, a Software Engineering student based in **Tunis, Tunisia**.
+Hello! I'm **Wissem Ben Slima**, a Software Engineering student at **TEK-UP University**, based in Tunis, Tunisia.
 
-After completing two years of intensive preparatory engineering studies and successfully passing the National Engineering Entrance Exam, I joined the **National Engineering School of Sfax (ENIS)**. Driven by my passion for software development, I chose to pursue my studies at **TEK-UP University**, where I am currently enrolled in the Software Engineering program.
+I am passionate about designing and developing scalable backend systems, distributed applications, and modern software architectures.
 
-I specialize in **backend development**, **microservices architectures**, **event-driven systems**, and **cloud-native applications**. I enjoy designing robust APIs and distributed systems using modern technologies like Spring Boot and .NET.
+My main areas of interest include:
 
-**Goal:** Contribute to ambitious software projects and collaborate with talented engineers on impactful solutions.
+- **Backend Development:** Java, Spring Boot, .NET, REST APIs.
+- **Microservices & Distributed Systems:** Event-Driven Architecture, Kafka, RabbitMQ.
+- **DevOps & Cloud:** Docker, Kubernetes, Terraform, AWS.
+- **Artificial Intelligence:** LLMs, Transformer Architecture, AI Agents, Agentic AI.
+- **Infrastructure & Automation:** Linux, Ansible, CI/CD.
+
+I enjoy exploring new technologies, solving complex engineering problems, and continuously improving my technical skills.
+
+**Current Goal:** Build reliable, scalable, and intelligent software solutions while expanding my knowledge of Cloud-Native technologies and AI-driven applications.
 
 ---
 
-## Core Skills
+## Technical Skills
 
-### Programming Languages
-- **Java** • **C#** • **JavaScript** • **Python**
-- Strong foundation in **Object-Oriented Programming** and **Algorithmic Problem Solving**
+**Programming Languages**
 
-### Frameworks & Libraries
-- **Spring Boot** (Advanced)
-- **.NET Core**
-- **Express.js**
-- **Symfony**
-- **Angular** (In progress)
+Java • C# • JavaScript • TypeScript • Python • SQL
 
-### Databases
-- **MySQL**
-- **MongoDB**
-- **Redis**
+**Backend & Frameworks**
 
-### DevOps & Tools
-- **Git** & **GitHub** • **GitLab CI/CD**
-- **Docker**
-- **Linux** System Administration
-- **Ansible** (Learning)
-- **Kubernetes** (Basics)
+Spring Boot • .NET Core • Express.js • NestJS • Symfony • Angular • REST APIs • GraphQL
 
-### Soft Skills
-- Analytical Thinking & Problem Solving
-- Continuous Learning
-- Team Collaboration
-- Adaptability
+**Databases & Messaging**
+
+MySQL • PostgreSQL • MongoDB • Redis • Apache Kafka • RabbitMQ
+
+**DevOps & Infrastructure**
+
+Linux • Docker • Docker Compose • Kubernetes (Fundamentals) • Terraform (Fundamentals) • Ansible • Vagrant • Git • GitLab CI/CD
+
+**Cloud Computing**
+
+AWS Fundamentals: EC2 • S3 • VPC • IAM • EFS • CloudWatch
+
+**Artificial Intelligence**
+
+LLMs • Transformer Architecture • Tokenization • Embeddings • AI Agents • Agentic AI • RAG Fundamentals
 
 ---
 
 ## Featured Projects
 
-### NBLB – Anti Food Waste Platform (Microservices)
-**Technologies:** Spring Boot • API Gateway • Service Discovery • Microservices
+### 1. SaveSafe Wallet – Microservices-Based Digital Wallet
 
-A distributed backend system designed to reduce food waste through a scalable microservices architecture.
+A digital wallet platform developed using a distributed microservices architecture.
 
-**Main Services:**
-- `auth-service` — Authentication & Authorization
-- `discovery-service` — Service Registry
-- `gateway` — API Gateway
-- `order-service` — Order Management
-- `payment-service` — Payment Processing
-
-This project demonstrates inter-service communication, scalability patterns, and production-ready backend design.
-
-### E-Commerce Microservices Platform
-**Technologies:** .NET Core • Apache Kafka • Microservices • Event-Driven Architecture
-
-A full backend e-commerce system built with .NET microservices and asynchronous messaging using Kafka.
+**Technologies:** .NET • Angular • Kafka • Redis • Docker • Grafana • Loki
 
 **Key Concepts:**
-- Distributed service architecture
-- Event-driven communication
-- Asynchronous processing
-- Scalable and maintainable design
+- Independent backend microservices.
+- Asynchronous communication using Apache Kafka.
+- Redis caching and performance optimization.
+- Application monitoring and centralized logging.
+- Containerization and local deployment with Docker Compose.
 
----
+### 2. Recouvra+ – Debt Collection Management Platform
 
-## Education
+A web application designed to help businesses manage customer debts, invoices, payments, and collection operations.
 
-- **TEK-UP University** — Software Engineering (Current)
-- **Preparatory Engineering Studies** — Completed 2 years + National Engineering Entrance Exam
+**Technologies:** Node.js • Express.js • MongoDB • JWT • Joi • Swagger • Angular
+
+**Key Concepts:**
+- Secure REST API development.
+- JWT Authentication and Authorization.
+- Backend architecture and API design.
+- Data validation and database management.
+
+### 3. Urban Traffic Manager – Smart City Platform
+
+A smart traffic monitoring platform designed to collect and analyze traffic data, detect road incidents, and provide real-time traffic insights.
+
+**Technologies:** NestJS • GraphQL • JWT • SQL Database • Microservices
+
+**Key Concepts:**
+- Microservices architecture.
+- GraphQL API Gateway.
+- Role-based access management.
+- Traffic data collection and analysis.
+
+### 4. NBLB Marketplace – E-Commerce Microservices Platform
+
+A distributed e-commerce application developed using Java and Spring Boot.
+
+**Technologies:** Java • Spring Boot • MySQL • Microservices • REST API
+
+**Key Concepts:**
+- Independent microservices for users, products, orders, and payments.
+- Secure authentication and authorization.
+- Role-Based Access Control (RBAC).
+- Distributed backend architecture.
 
 ---
 
 ## Currently Learning
-- RHCSA (Red Hat Certified System Administrator)
-- Advanced Linux System Administration
-- DevOps Best Practices
-- Docker & Container Orchestration
-- Kubernetes Fundamentals
-- Advanced CI/CD Pipelines with GitLab
+
+I continuously invest time in improving my engineering and infrastructure skills.
+
+- **Kubernetes:** CKA curriculum fundamentals, cluster administration, networking, storage, RBAC, and troubleshooting.
+- **Linux Administration:** RHCSA preparation and system administration.
+- **Infrastructure as Code:** Terraform fundamentals, providers, resources, state, and modules.
+- **Cloud Computing:** AWS infrastructure and networking fundamentals.
+- **DevOps:** CI/CD pipelines, container orchestration, and automation.
+- **Artificial Intelligence:** LLM architectures, AI Agents, Agentic AI, and RAG.
 
 ---
 
-## Connect With Me
+## Areas of Interest
 
-- **Email:** [benslimawissem5@gmail.com](mailto:benslimawissem5@gmail.com)
-- **GitHub:** [github.com/wissembenslima07](https://github.com/wissembenslima07)
-- **LinkedIn:** [linkedin.com/in/wissem-ben-slima-1b2757289](https://www.linkedin.com/in/wissem-ben-slima-1b2757289)
+- Backend Engineering & Distributed Systems
+- Microservices Architecture
+- DevOps & Cloud-Native Technologies
+- Kubernetes & Infrastructure as Code
+- Artificial Intelligence & Agentic AI
+- Blockchain Technology
 
 ---
 
-## Tech Stack
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=wissembenslima07&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=wissembenslima07&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wissembenslima07&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## Let's Connect
 
-<div align="center">
+I'm always interested in discussing software engineering, backend development, distributed systems, DevOps, Cloud Computing, and Artificial Intelligence.
 
-  ![Wissem's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=wissembenslima07&show_icons=true&theme=tokyonight&hide_border=true)
+- **Email:** benslimawissem5@gmail.com
+- **GitHub:** [wissembenslima07](https://github.com/wissembenslima07)
+- **LinkedIn:** [Wissem Ben Slima](https://www.linkedin.com/in/wissem-ben-slima-1b2757289/)
 
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=wissembenslima07&theme=tokyonight&hide_border=true)
-
-  ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wissembenslima07&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-⭐ Thank you for visiting my profile. Feel free to explore my repositories and reach out if you want to collaborate or discuss interesting projects!
+<p align="center">
+  <i>Building today, engineering tomorrow.</i>
+</p>
