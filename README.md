@@ -23,6 +23,7 @@
 ## About Me
 
 Hello! I'm **Wissem Ben Slima**, a Software Engineering student at **TEK-UP University**, based in Tunis, Tunisia.
+After completing two years of intensive preparatory engineering studies and successfully passing the National Engineering Entrance Exam, I pursued my engineering education at TEK-UP University, where I am currently specializing in Software Engineering.
 
 I am passionate about designing and developing scalable backend systems, distributed applications, and modern software architectures.
 
